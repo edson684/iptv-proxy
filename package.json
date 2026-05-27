@@ -1,0 +1,12 @@
+{
+  "name": "iptv-proxy",
+  "version": "1.0.0",
+  "description": "Proxy simples para resolver CORS em streams IPTV",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
